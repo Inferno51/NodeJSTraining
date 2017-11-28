@@ -1,0 +1,16 @@
+{
+  "name": "CleanDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cleanup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "knex-cleaner": "^1.1.3"
+  }
+}
