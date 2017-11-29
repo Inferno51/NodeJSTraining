@@ -10,7 +10,7 @@ const port = 3000;
 const requestHandler = (request, response) => {  
   console.log(request.url);
   //end method ends execution and sends message to browser
-  response.end('Hello Node.js Server!');
+  response.end('Hello Client!');
 }
 
 
